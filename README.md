@@ -1,3 +1,6 @@
+Angular App
+![1](https://user-images.githubusercontent.com/66522993/150614802-a03c0b16-8101-4b51-959e-7dd7ae28f80c.png)
+
 # Teamapp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.4.
